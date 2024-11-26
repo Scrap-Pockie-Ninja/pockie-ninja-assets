@@ -1,0 +1,7 @@
+{
+	"name": "core/blank",
+	"offset": [0, 0],
+	"noSprite": true,
+	"characterAnimation": "6",
+	"jutsu": true
+}
