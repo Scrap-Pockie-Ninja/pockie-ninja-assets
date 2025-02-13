@@ -1,0 +1,8 @@
+{
+	"name": "monsters/40120",
+	"offset": [-206, -445],
+	"events": {
+		"2": ["Attack"]
+	},
+	"characterAnimation": "59"
+}
