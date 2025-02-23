@@ -3,6 +3,7 @@
 	"linked": [38221],
 	"offset": [-125.55, -201.1],
 	"events": {
+		"7": ["Attack"]
 	},
 	"characterAnimation": "0"
 }

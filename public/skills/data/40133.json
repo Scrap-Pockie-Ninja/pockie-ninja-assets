@@ -2,7 +2,6 @@
 	"name": "core/blank",
 	"offset": [0, 0],
 	"petAnimation": "17",
-	"characterAnimation": "66",
 	"events": {
 		"1": ["Attack"]
 	}
