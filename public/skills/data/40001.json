@@ -1,5 +1,8 @@
 {
 	"name": "core/blank",
 	"offset": [0, 0],
-	"petAnimation": "52"
+	"petAnimation": "52",
+	"events": {
+		"11": ["Attack"]
+	}
 }
